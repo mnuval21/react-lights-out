@@ -24,7 +24,7 @@ table tr:last-child td:last-child {
 }
 
 .Board-title {
-  display: flex;
+  /*display: flex;*/
   align-items: center;
   justify-content: center;
 }
